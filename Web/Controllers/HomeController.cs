@@ -40,7 +40,7 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult DeleteTask(int id)
     {
-        _taskService.DeleteTask(id); // تأكد من أن `DeleteTask` موجودة في `TaskService`
+        _taskService.DeleteTask(id); 
         return RedirectToAction("Index");
     }
 

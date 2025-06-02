@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\WWW.DominoHama.Com\\TodoSolution\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\WWW.DominoHama.Com\\TodoSolution\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "c:\\Users\\WWW.DominoHama.Com\\TodoSolution\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\WWW.DominoHama.Com\\TodoSolution\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\WWW.DominoHama.Com\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\WWW.DominoHama.Com\\TodoSolution\\Business\\obj\\",
+      "outputPath": "C:\\Users\\WWW.DominoHama.Com\\TodoSolution\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WWW.DominoHama.Com\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\WWW.DominoHama.Com\\TodoSolution\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "c:\\Users\\WWW.DominoHama.Com\\TodoSolution\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\WWW.DominoHama.Com\\TodoSolution\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\WWW.DominoHama.Com\\TodoSolution\\DataAccess\\DataAccess.csproj"
             }
           }
         }
